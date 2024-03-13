@@ -11,7 +11,7 @@ const Navbar = () => {
     <Nav>
       <div className="brand">
         <div className="logo">
-          <img src={logo} alt="Earthium" />
+          <img src={logo} alt="GameoCrypt" />
         </div>
         <div className="toggle">
           {navState ? (

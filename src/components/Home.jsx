@@ -10,7 +10,7 @@ const Home = () => {
     <Section id="home">
       <div className="text">
         <h1>
-          <span className="highlight">Earthium</span> is a real-time stratergic
+          <span className="highlight">GameoCrypt</span> is a real-time stratergic
           game
         </h1>
         <p>Where you can earn money, <span className="highlight"> crypto </span>
